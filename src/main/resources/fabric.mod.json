@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "cuu",
+  "version": "${version}",
+
+  "name": "ChA0S Utils [Upgraded]",
+  "description": "Blah blah blah...",
+  "authors": [
+    "ChA0S_f4me"
+  ],
+
+  "license": "CC0-1.0",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.cha0s_f4me.cuu.CUUMain"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.8.7",
+    "fabric": "*",
+    "fabric-language-kotlin": "*",
+    "minecraft": "1.18.x",
+    "fabrikmc-core": "*",
+    "fabrikmc-commands": "*"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

@@ -1,0 +1,16 @@
+{
+	"itemGroup.cuu.cuu_ctab": "ChA0S Utils",
+
+	"item.cuu.death_stick": "Death Stick",
+
+	"commands.cuu.repair.success": "Item in your hand repaired!",
+	"commands.cuu.repair.success.other": "Item in %s's hand repaired!",
+	"commands.cuu.repair.success.others": "Items in their hands repaired!",
+	"commands.cuu.repair.empty_hand": "You're holding nothing!",
+	"commands.cuu.repair.isnt_damagable": "Item in your hand isn't damagable!",
+	"commands.cuu.repair.isnt_damaged": "Item in your hand isn't damaged!",
+
+	"commands.cuu.time.success": "Time set %s!",
+
+	"commands.cuu.weather.success": "Weather set %s!"
+}

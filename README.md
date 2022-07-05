@@ -1,5 +1,5 @@
 # ChA0S Utils [Upgraded]
-Upgraded version of my [mod](https://github.com/Passive1st/ChA0S-Utils), but for newer versions and using FabricMC instead of Forge
+Upgraded version of my [mod](https://github.com/Passive1st/ChA0S-Utils), but for newer versions and using Fabric instead of Forge modloader
 
 ## Commands
 |          Command (+ syntax)           |            Description            | Is Added |
